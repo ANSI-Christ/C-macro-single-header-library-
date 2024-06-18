@@ -1,2 +1,2 @@
-# C-macro-library
-C macro library
+# C macro signle-header library
+
